@@ -1,7 +1,10 @@
 ---
 title: Mikhael Hayes
 layout: default
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
+remote_theme: mmistakes/minimal-mistakes
+
 
 
 ---
