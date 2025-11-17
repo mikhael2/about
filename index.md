@@ -18,7 +18,7 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 - **Aspiration and its historical sources: Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. Talk. ICHBL at University of the Basque Country. November 2025.
 - **Computing rhyme**. Subregular Workshop at Rutgers University. Talk. November 2025.
 - **Aspiration and its historical sources: Quantifying aspiration in Zuberoan Basque**. Poster. MidPhon at Indiana University. October 2025.
-- **Tell it to me straight: Refusals in comparative pragmatics**. Talk. PLL at Indiana University. November 2023.
+- **Tell it to me straight: Refusals in comparative pragmatics**. Talk. PLL at Indiana University. November 2024.
 
 ## Papers in progress
 
