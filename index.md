@@ -1,7 +1,6 @@
 ---
 title: Mikhael Hayes
 layout: default
----
 <style>
 @media (prefers-color-scheme: dark) {
 /* This targets the main body wrapper for the Primer theme /
@@ -34,6 +33,8 @@ background-color: transparent; / Remove white bg on images */
 }
 }
 </style>
+---
+
 
 # Mikhael Hayes
 [maɪ̯kl̩ heɪ̯z]
