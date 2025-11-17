@@ -8,7 +8,7 @@ theme: jekyll-theme-cayman
 
 # Mikhael Hayes
 
-<p align="center">
+<p align="left">
   <img src="profile.png" alt="Mikhael Hayes" width="200"/>
 </p>
 
