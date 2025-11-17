@@ -15,14 +15,14 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 
 I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in Basque, poetry, phonology, and history. You can email me at mikhael2 [at] illinois [dot] edu.
 
-## Conferences & Presentations
+## Conferences and presentations
 
 - **Aspiration and its historical sources: Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. Talk. ICHBL at University of the Basque Country. November 2025.
 - **Computing rhyme**. Subregular Workshop at Rutgers University. Talk. November 2025.
 - **Aspiration and its historical sources: Quantifying aspiration in Zuberoan Basque**. Poster. MidPhon at Indiana University. October 2025.
 - **Tell it to me straight: Refusals in comparative pragmatics**. Talk. PLL at Indiana University. November 2023.
 
-## Papers in Progress
+## Papers in progress
 
 - **"Computing rhyme"** (working title)
 - **"Quantifying aspiration in Zuberoan Basque"** with José Ignacio Hualde. (working title)
