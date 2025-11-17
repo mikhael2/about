@@ -1,14 +1,14 @@
 ---
 title: Mikhael Hayes
 layout: default
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
 
 
 ---
 
 # Mikhael Hayes
 
-I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in Basque, Poetry, Phonology, and History. You can email me at mikhael2 [at] illinois [dot] edu.
+I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in Basque, poetry, phonology, and history. You can email me at mikhael2 [at] illinois [dot] edu.
 
 ## Conferences & Presentations
 
