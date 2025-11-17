@@ -1,9 +1,6 @@
 ---
 title: Mikhael Hayes
 layout: default
-theme: jekyll-theme-midnight
-
-
 ---
 
 # Mikhael Hayes
