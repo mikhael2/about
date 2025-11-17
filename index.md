@@ -2,6 +2,38 @@
 title: Mikhael Hayes
 layout: default
 ---
+<style>
+@media (prefers-color-scheme: dark) {
+/* This targets the main body wrapper for the Primer theme /
+body.markdown-body {
+background-color: #24292e; / A dark grey /
+color: #c9d1d9;           / A light grey text */
+}
+
+/* Update header colors /
+body.markdown-body h1,
+body.markdown-body h2,
+body.markdown-body h3 {
+color: #c9d1d9;
+border-bottom-color: #444c56; / Darker border */
+}
+
+/* Update link colors /
+body.markdown-body a {
+color: #58a6ff; / A light blue for links */
+}
+
+/* Update horizontal rule */
+body.markdown-body hr {
+background-color: #444c56;
+}
+
+/* Update image borders (e.g., your profile picture) /
+body.markdown-body img {
+background-color: transparent; / Remove white bg on images */
+}
+}
+</style>
 
 # Mikhael Hayes
 [maɪ̯kl̩ heɪ̯z]
