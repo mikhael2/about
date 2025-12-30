@@ -69,4 +69,4 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 
 ---
 
-© {{ site.time | date: "%Y" }} Mikhael Hayes. Last updated: November 2025.
+© {{ site.time | date: "%Y" }} Mikhael Hayes. Last updated: December 2025.
